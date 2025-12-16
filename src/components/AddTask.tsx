@@ -1,7 +1,10 @@
 export function AddTask() {
     return (
         <>
-            <h1>Adicionar Tarefa</h1>
+            <h2>
+                Adicionar Tarefa
+            </h2>
+
         </>
     )
 }
